@@ -1,2 +1,2 @@
 import FILE
-FILE.__ripon_()
+FILE.menu()
