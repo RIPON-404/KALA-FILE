@@ -1,3 +1,2 @@
-import os
 import FILE
-FILE.menu()
+FILE.aprovel()
