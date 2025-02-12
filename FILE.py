@@ -1,2 +1,0 @@
-import FILE
-FILE.aprovel()
