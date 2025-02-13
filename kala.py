@@ -1,2 +1,0 @@
-import kala
-kala.aprovel()
