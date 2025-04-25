@@ -1,2 +1,2 @@
-import KALA
-KALA.aprovel()
+import kl
+kl.main()
