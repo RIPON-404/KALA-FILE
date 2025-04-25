@@ -1,2 +1,2 @@
-import kl
-kl.main()
+import KALA
+KALA.main()
